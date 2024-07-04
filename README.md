@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @odbckrishna
-- 👀 I’m interested in ... Data Engineering and analytics
+- 👋 Hi, I’m Saikrishna Cheruvu
+- 👀 I’m interested in ... Data Engineering and Analytics
 - 🌱 I’m currently learning ...analytics and advanced python
 - 💞️ I’m looking to collaborate on ... Spark and Python
 - 📫 How to reach me ...odbc.krishna@gmail.com
